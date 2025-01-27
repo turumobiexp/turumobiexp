@@ -19,7 +19,7 @@ I am a **Senior Full-Stack Mobile App Developer** with 10 years of experience in
 
 ### Programming Languages
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
-![Objective-C](https://img.shields.io/badge/-Objective--C-E0FFFF?logo=apple&logoColor=blue&style=for-the-badge)
+![Objective-C](https://img.shields.io/badge/-Objective--C-E0FFFF?logo=apple&logoColor=black&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
