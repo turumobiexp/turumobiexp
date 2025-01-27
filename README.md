@@ -28,7 +28,7 @@ I am a **Senior Full-Stack Mobile App Developer** with 10 years of experience in
 ![C#](https://img.shields.io/badge/-C%23-800080?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge
 )
-![Blueprint](https://img.shields.io/badge/-Blueprint-00395D?logo=unreal-engine&logoColor=white&style=for-the-badge)
+![Blueprint](https://img.shields.io/badge/-Blueprint-000000?logo=unreal-engine&logoColor=green&style=for-the-badge)
 
 ### 🛠 Tools & Technologies
 
