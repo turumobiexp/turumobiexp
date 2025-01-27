@@ -11,7 +11,7 @@ I am a **Senior Full-Stack Mobile App Developer** with 10 years of experience in
 
 ### Game Development
 ![Unity 3D](https://img.shields.io/badge/-Unity%203D-000000?logo=unity&logoColor=white&style=for-the-badge)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white&style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-FFFFFF?logo=unreal-engine&logoColor=black&style=for-the-badge)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
